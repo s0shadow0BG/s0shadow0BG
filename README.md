@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @s0shadow0BG
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on may 22
+- 📫 How to reach me in discord" s0shadow0BG#4639
